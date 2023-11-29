@@ -4,10 +4,12 @@
  */
 package pkg22166034.pbo.lat54;
 
-/**
- *
- * @author LENOVO
- */
+* Nama         : Nur Hidayah
+* NIM          : 22166034 
+* Mata Kuliah  : PBO 
+* Prodi        : Sistem Informasi
+// Semester 3
+
 // Kelas Koordinat
 class Koordinat {
     private int x;
